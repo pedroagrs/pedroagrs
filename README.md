@@ -22,7 +22,7 @@
 <a href="https://www.docker.com" target="_blank"> <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroagrs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pedroagrs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroagrs&show_icons=true&locale=en&layout=compact&theme=dark" alt="pedroagrs" /></p>
 <br></br>
 <br></br>
 <br></br>
