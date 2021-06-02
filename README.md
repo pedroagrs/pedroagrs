@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/pedroagrs" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/pedroagrs?logo=twitter&style=for-the-badge" alt="pedro" /></a> </p>
 
-- 🔭 I’m currently working on [Rarley](https://github.com/RarleyInc)
+- 🔭 I’m currently working on [Rarley](https://github.com/RarleyInc) and [Senior Team](https://www.senior-studios.com/seniorteam)
 
 - 🌱 I’m currently learning JS
 
