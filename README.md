@@ -5,7 +5,7 @@
 
 ☕ I've been working with Java for 5 years
 
-Contact me via Discord: "Pedro Aguiar#0001"
+Contact me via Discord: "pedroaguiar"
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroagrs&show_icons=true&locale=en&layout=compact&theme=dark" alt="pedroagrs" /></p>
 <br></br>
 <br></br>
