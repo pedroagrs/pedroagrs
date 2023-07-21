@@ -1,8 +1,6 @@
 <h1 align="center">Hey, I'm Pedro Aguiar</h1>
 <h3 align="center">I'm developer from SC/Brazil.</h3>
 
-<p align="center"> <a href="https://twitter.com/pedroagrs" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/pedroagrs?logo=twitter&style=for-the-badge" alt="pedro" /></a> </p>
-
 I've been working with Java for 6 years using:
 <br>Docker, Spring, Lombok, SQL (MariaDB/MySQL & PostgreSQL), NoSQL (MongoDB & Redis), RabbitMQ, Swagger, jUnit. ❤️ </br>
 
