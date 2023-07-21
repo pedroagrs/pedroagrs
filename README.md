@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://twitter.com/pedroagrs" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/pedroagrs?logo=twitter&style=for-the-badge" alt="pedro" /></a> </p>
 
 I've been working with Java for 6 years using:
-Docker, Spring, Lombok, SQL (MariaDB/MySQL & PostgreSQL), NoSQL (MongoDB & Redis), RabbitMQ, Swagger, jUnit. ❤️
+<br>Docker, Spring, Lombok, SQL (MariaDB/MySQL & PostgreSQL), NoSQL (MongoDB & Redis), RabbitMQ, Swagger, jUnit. ❤️ </br>
 
 Contact me via email: pedrohqaguiar@hotmail.com
 
