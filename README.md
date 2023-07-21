@@ -6,7 +6,8 @@
 I've been working with Java for 6 years using:
 Docker, Spring, Lombok, SQL (MariaDB/MySQL & PostgreSQL), NoSQL (MongoDB & Redis), RabbitMQ, Swagger, jUnit. ❤️
 
-Contact me via Discord: "pedroaguiar"
+Contact me via email: pedrohqaguiar@hotmail.com
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroagrs&show_icons=true&locale=en&layout=compact&theme=dark" alt="pedroagrs" /></p>
 <br></br>
 <br></br>
